@@ -134,4 +134,9 @@
 This **Shiny dashboard** is a powerful **air quality monitoring tool** for **Uttar Pradesh**. It provides **real-time insights, historical analysis, and interactive visualizations** to help researchers, policymakers, and the general public **understand and track pollution trends**.
 
 🚀 **This is a well-structured, data-driven project that makes environmental data accessible and actionable!**
+![UPCCCE_GIS_DrillDown](https://github.com/user-attachments/assets/f9b0feb9-0a0e-40dd-aeb8-d0c444d6a4ad)
+![UPCCCE_Air_Quality](https://github.com/user-attachments/assets/97cc383e-70e7-4e90-90e9-11785b0968ea)
+![Wind_Speed](https://github.com/user-attachments/assets/d183e45c-eb3e-4581-bf85-dc46a66e6c1a)
+
+
 
