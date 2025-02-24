@@ -73,6 +73,7 @@
 
 ## **🖥️ User Interface**
 
+![UPCCCE-project](/UPCCCE GIS(Drill Down ).png)
 ### **📌 UI Components**
 1. **Navbar Layout (`navbarPage()`)**
    - **Tabs:** "Live AQI" and "Historical AQI".
