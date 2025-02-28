@@ -1,4 +1,4 @@
-# Uttar Pradesh Climate Change Authority (UPCCCE)
+# Uttar Pradesh Climate Change and Clean Environment (UPCCCE)
 
 ## **📌 Overview**  
 The **UP Climate Change Authority Dashboard** is a **web-based analytical tool** designed to provide **real-time and historical air quality insights** for **Uttar Pradesh**.  
